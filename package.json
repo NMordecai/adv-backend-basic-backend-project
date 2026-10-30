@@ -1,0 +1,11 @@
+{
+  "name": "adv-backend-basic-backend-project",
+  "version": "1.0.0",
+  "description": "Vanilla Node.js Backend Lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "NMordecai",
+  "license": "ISC"
+}
